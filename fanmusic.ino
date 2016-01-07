@@ -1,3 +1,5 @@
+#include <TimerOne.h>
+
 int speed = 0;
 int speedi = 0;
 int flag = 1;
